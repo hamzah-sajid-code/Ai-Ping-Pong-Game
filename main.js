@@ -26,6 +26,9 @@ function setup(){
   canvas.parent('canvas')
 }
 
+function restart(){
+  
+}
 
 function draw(){
 
